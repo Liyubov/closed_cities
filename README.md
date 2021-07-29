@@ -3,6 +3,8 @@ Repository exists for collection of the information and sharing more information
 
 Feel free to add data here: https://forms.gle/ECohDjfy31g3Zm4R9
 
+If you have any questions feel free to write to liubov.tupikina@cri-paris.org
+
 # Borders of ZATO PROJECT
 ## PREMISE:
 In the middle of the 20th century at the beginning of the Cold war USSR started the development of new kinds of cities: closed, military governed research centres, which  were aiming for studying nuclear physics.
