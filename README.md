@@ -1,5 +1,5 @@
-# closed cities
-Repository exists for collection of the information and sharing more information about closed cities. If you have any more open data on closed cities, share it with the world.
+# Closed cities
+Repository exists for collection of the information and sharing more information about closed cities, also known as ZATOS. If you have any more open data on closed cities, share it with the world. Fork this folder.
 
 
 # Borders of ZATO PROJECT
@@ -89,3 +89,24 @@ Xena Poleschuk
 Dana Molzhit
 Evgenii Bykov
 
+
+Art director:
+Vlad Afanasiev,          Влад Афанасьев
+
+Program directors: 
+Benjamin H. Bratton, Nicolay Boyadjiev
+Strelka Institute for Media Architecture and Design
+
+Бенджамин Браттон, Николай Бояджиев
+Институт медиа, архитектуры и дизайна “Стрелка”
+
+
+Thanks to:
+Jussi Parikka         Ryan Bishop        Nabi Agzamov        Angelina Davydova    
+Daniar Yusupov    Lydia Kallipoliti        
+Andrey Tetekin     
+
+Special thanks to TTF 2021 researchers for support, links, materials, inspiring discussions during nights and days, to TTF 2021 team for providing a borderless environment for work on the project.
+
+
+This website is preliminary, we will make a better version of it, keep us updated.
