@@ -58,7 +58,8 @@ To alter our basic notion of a border, we might also use an ecological approach.
 Thus, the border of ZATO not only separates one landscape by dissecting it into two, but also starts irreversible processes in both landscapes.
 In each of these paradigms ZATOs demonstrate the intrinsic multiplicity of "enclosure" and intersection of them forms a multi-dimensional continuum: geometrical, informational, energetical.
 The further we go with clarification of borders of ZATO, the more complex they appear to be. 
-PART 3: Gradual loss of information
+
+## PART 3: Gradual loss of information
  
 We are used to thinking of borders around the “well defined” objects as long as it remains a stable entity and with information available about it. It’s easier to think about the border around the city than around a gas cloud. l, Xena l
 Gradual loss of information isn’t merely collateral in our investigation of ZATOs borders – quite the opposite; the absence of information forces us to reconsider borders as such. The less data we have, the more fundamental premises about borders are to be revised.
