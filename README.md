@@ -1,6 +1,7 @@
 # Closed cities
 Repository exists for collection of the information and sharing more information about closed cities, also known as ZATOS. If you have any more open data on closed cities, share it with the world. Fork this folder.
 
+Feel free to add data here: https://forms.gle/ECohDjfy31g3Zm4R9
 
 # Borders of ZATO PROJECT
 ## PREMISE:
